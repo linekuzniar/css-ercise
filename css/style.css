@@ -1,0 +1,181 @@
+
+h1 {
+  color: white;
+  text-shadow: 1px 1px .07em #ffffff;
+  font-size: 5em;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: 	#ffc78e;
+}
+
+#boxshadow{
+  z-index: -1;
+}
+
+.bottom{
+  width:600px;
+  height:100px;
+  background: rgb(205,230,178);
+  background: linear-gradient(180deg, rgba(205,230,178,1) 20%, rgba(150,168,131,1) 100%);
+  box-shadow: 3px 3px #6F8465;
+  border-radius: 15px;
+  position: absolute;
+  left: 30%;
+  top: 68%;
+}
+
+.title{
+  font: "Lucida-Console";
+  color: rgb(194,117,1);
+  color: linear-gradient(180deg, rgba(227,169,82,1) 20%, rgba(164,101,4,1) 100%);
+	font-size: 35px;
+  position: absolute;
+  left: 35%;
+  top: 73%;
+  text-shadow: 1px 1px 	#ad6b06;
+  font-weight: bold;
+}
+
+.second{
+  width:650px;
+  height:80px;
+  background-color: #da8782;
+  background-image: linear-gradient(180deg, #da8782 0%, #ffaaa5 38%, #bf7975 93%);
+  box-shadow: 3px 3px #98463B;
+  border-radius: 15px;
+  position: absolute;
+  left: 28%;
+  top: 58%;
+}
+
+.title2{
+  font: "Lucida-Console";
+  color: grey;
+	font-size: 35px;
+  position: absolute;
+  left: 35%;
+  top: 61%;
+  text-shadow: 1px 1px 	black;
+  font-weight: bold;
+}
+
+.covie{
+  border-bottom: 20px solid 	#ffd3b6;
+  border-radius: 15px;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  height: 0;
+  width: 510px;
+  position: absolute;
+  left: 28%;
+  top: 55.5%;
+}
+
+.third{
+  width:500px;
+  height:120px;
+  background-color: #edb13a;
+  background-image: linear-gradient(180deg, #edb13a 0%, #FFD246 38%, #eb9501 93%);
+  box-shadow: 3px 3px #D86300;
+  border-radius: 15px;
+  position: absolute;
+  left: 32%;
+  top: 41%;
+}
+
+.title3{
+  font: "Lucida-Console";
+  color: black;
+	font-size: 35px;
+  position: absolute;
+  left: 35%;
+  top: 42%;
+  text-shadow: 1px 1px 	black;
+  font-weight: bold;
+}
+
+.title3{
+  font: "Lucida-Console";
+  color: black;
+	font-size: 35px;
+  position: absolute;
+  left: 35%;
+  top: 47%;
+  text-shadow: 1px 1px 	black;
+  font-weight: bold;
+}
+.fourth{
+  width:610px;
+  height:95px;
+  background-color: #ffebab;
+  background-image: linear-gradient(180deg, #ffebab 0%, #fff5d6 40%, #fddf86 90%);
+  box-shadow: 3px 3px #b88b83;
+  border-radius: 15px;
+  position: absolute;
+  left: 30%;
+  top: 28%;
+}
+
+.cover{
+  border-bottom: 20px solid #fff5d6;
+  border-radius: 15px;
+  border-left: 70px solid transparent;
+  border-right: 70px solid transparent;
+  height: 10;
+  width: 473px;
+  position: absolute;
+  left: 0%;
+  top: -17%
+}
+
+.title4{
+  font: "Lucida-Console";
+  color: rgb(194,117,1);
+  color: linear-gradient(180deg, rgba(227,169,82,1) 20%, rgba(164,101,4,1) 100%);
+	font-size: 35px;
+  position: absolute;
+  left: 15%;
+  top: 26%;
+  text-shadow: 1px 1px 	#ad6b06;
+  font-weight: bold;
+}
+
+.dot {
+  height: 1000px;
+  width: 1500px;
+  background-color: #ea8484;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  left: -5%;
+  top: 60%;
+  z-index: -1;
+
+}
+.dot2 {
+  height: 1000px;
+  width: 1500px;
+  background-color: #9A4A4A;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  left: -4%;
+  top: 58%;
+  opacity: 0.75;
+  z-index: -2;
+}
+
+.dot3 {
+  height: 100px;
+  width: 800px;
+  background-color: #633853;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  left: 31%;
+  top: 74%;
+  opacity: 0.5;
+  z-index: -1;
+}
